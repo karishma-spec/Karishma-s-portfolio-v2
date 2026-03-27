@@ -1,0 +1,23 @@
+# Karishma Bishnoi - Student Developer Portfolio
+
+## About
+Karishma Bishnoi is a B.Tech engineering student at AIT Pune and a passionate developer based in Pune, India. She specializes in C++, Competitive Programming, Web Development, and UI/UX Design.
+
+## Skills
+- **Languages & Tech**: C++, HTML, CSS, JavaScript
+- **Design Tools**: Figma, Canva
+- **Core Focus**: Competitive Programming (Codeforces), Web Prototyping
+
+## Projects
+- **Smart Irrigation System**: An IoT prototype detecting soil moisture and pH levels.
+- **Event Design & Management**: Created visual assets and flyers for college events like NEXT NICHE, CODEFT, and IPL auctions.
+- **Portfolio**: This website, showcasing her ongoing projects and skills.
+
+## Contact
+- **Email**: [bidamikhichar5@gmail.com]
+- **GitHub**: [https://github.com/karishma-spec]
+- **LinkedIn**: [https://www.linkedin.com/in/karishma-bishnoi-218290393/]
+
+## Content Structure
+- `/`: Main landing page with Hero, About, Skills, Projects, and Contact sections.
+- `/resume`: Direct link to view/download resume.
