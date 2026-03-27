@@ -22,8 +22,6 @@ export const Projects = () => {
       id="projects"
       className="py-24 max-w-6xl mx-auto relative overflow-hidden"
     >
-
-
       <div className="mx-auto px-4 lg:px-8 relative">
         <motion.div
           className="text-center mb-16"
@@ -53,8 +51,8 @@ export const Projects = () => {
               index={index}
               title={proj.name}
               desc={proj.description}
-              github={proj.github_link}
-              demo={proj.demo}
+              github={proj.github_link || ""}
+              demo={proj.demo || ""}
               tech={proj.tech}
             />
           ))}
